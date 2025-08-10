@@ -19,17 +19,9 @@
 ## 📦 Установка и запуск
 
 ### 1. Скачивание готовой сборки
-- Перейдите в [Releases](https://github.com/`<your-user>`/Kataribe/releases).
+- Перейдите в [Releases](https://github.com/iniquitousworld/Kataribe/releases).
 - Скачайте архив `Kataribe_vX.X.zip`.
 - Распакуйте и запустите `Kataribe.exe`.
-
-### 2. Запуск из исходников
-```bash
-git clone https://github.com/<your-user>/Kataribe.git
-cd Kataribe
-pip install -r requirements.txt
-python gui.py
-```
 
 ---
 
@@ -49,7 +41,7 @@ python gui.py
 ---
 
 ## 💡 Авторы
-- [@iniquitousworld](https://github.com/iniquitousworld)  
-- [@shim0neta](https://github.com/shim0neta)  
+- [@iniquitousworld](https://t.me/iniquitousworld)  
+- [@shim0neta](https://t.me/shim0neta)  
 
 ---
